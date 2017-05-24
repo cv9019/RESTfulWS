@@ -43,7 +43,7 @@ Temporary Items
 #.loadpath
 
 # Eclipse Core
-#.project
+.project
 
 # External tool builders
 #.externalToolBuilders/
