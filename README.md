@@ -26,10 +26,10 @@ Estos son los requermientos que utilizamos en nuestra evidencia
 
 
 ## Créditos
-Estudiante Carlos Iván Villalpando Rivera
-AL02774468
-Computación Avanzada en Java
-Universidad TecMilenio
+- Estudiante Carlos Iván Villalpando Rivera
+- AL02774468
+- Computación Avanzada en Java
+- Universidad TecMilenio
 
 ## Licencia
 El código está disponible bajo la licencia GNU GPL-3.0
